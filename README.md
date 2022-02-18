@@ -14,7 +14,6 @@
 <img width="1335" alt="스크린샷 2022-02-18 오후 1 05 18" src="https://user-images.githubusercontent.com/63288666/154615497-f7b06d72-3e04-419c-b264-d5c807da868a.png">
 
 ***
-- Test accuracy가 92.16%로 나왔습니다.[Uploading Downloads…]()
-
+- Test accuracy가 92.16%로 나왔습니다.
 - 훈련 과정에서 생성한 그래프는 아래와 같습니다.
 <img width="1335" alt="스크린샷 2022-02-18 오후 12 52 22" src="https://user-images.githubusercontent.com/63288666/154615599-c010867e-7c5d-4be6-973b-c195963b0827.png">
