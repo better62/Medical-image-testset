@@ -4,7 +4,7 @@
 
 ### 1. Dataset
 - [Chest X-ray dataset](https://www.kaggle.com/tolgadincer/labeled-chest-xray-images)
-- [데이터 셋 설명 ppt]()
+- [데이터 셋 설명 ppt](https://github.com/better62/Medical-image-testset/blob/main/Chest%20X-ray%20dataset.pdf)
 
 ### 2. Medical Image Classification
 - [ResNet50 (pretrained on ImageNet)](https://github.com/better62/Medical-image-testset/tree/Classification-ResNet50)
