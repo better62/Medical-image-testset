@@ -12,6 +12,6 @@
 
 ### 3. Distortions (Traditional / CNN based)
 - [Traditional distortions]()
-- [CNN based distortions]()
+- [CNN based distortions](https://github.com/better62/Medical-image-testset/tree/Distortions/CNN-based)
 
 
