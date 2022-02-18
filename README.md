@@ -7,7 +7,7 @@
 
 
 ### 2. Medical Image Classification
-- [ResNet50 (pretrained on ImageNet)]()
+- [ResNet50 (pretrained on ImageNet)](https://github.com/better62/Medical-image-testset/blob/Classification-ResNet50/README.md)
 
 
 ### 3. Distortions (Traditional / CNN based)
