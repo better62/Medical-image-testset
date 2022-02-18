@@ -6,7 +6,12 @@
 - [Chest X-ray dataset](https://www.kaggle.com/tolgadincer/labeled-chest-xray-images)
 
 
-### 1. Medical Image Classification
-<ul>ResNet50 (pretrained on ImageNet)</ul>
+### 2. Medical Image Classification
+- [ResNet50 (pretrained on ImageNet)]()
+
+
+### 3. Distortions (Traditional / CNN based)
+- [Traditional distortions]()
+- [CNN based distortions]()
 
 
