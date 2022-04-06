@@ -14,4 +14,4 @@
 - [Traditional distortions]()
 - [CNN based distortions](https://github.com/better62/Medical-image-testset/tree/Distortions)
 
-
+위의 활동들을 수행하며 보고서를 작성했고 장려상을 수상했습니다.
