@@ -3,7 +3,7 @@
 ## 제 28기 서울대학교 대학원 의과학과 학부 연구생 인턴 프로그램을 통해 수행한 task 입니다. :blush:
 
 ### 0. 관련 논문
-The Unreasonable Effectiveness of Deep Features as a Perceptual Metric
+-> The Unreasonable Effectiveness of Deep Features as a Perceptual Metric
 - [논문 리뷰](https://github.com/better62/Medical-image-testset/blob/main/The%20Unreasonable%20Effectiveness%20of%20Deep%20Features%20as%20a%20Perceptual%20Metric.pdf)
 
 
