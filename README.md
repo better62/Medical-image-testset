@@ -2,6 +2,10 @@
 
 ## 제 28기 서울대학교 대학원 의과학과 학부 연구생 인턴 프로그램을 통해 수행한 task 입니다. :blush:
 
+### 0. 관련 논문 (The Unreasonable Effectiveness of Deep Features as a Perceptual Metric)
+- [논문 리뷰]()
+
+
 ### 1. Dataset
 - [Chest X-ray dataset](https://www.kaggle.com/tolgadincer/labeled-chest-xray-images)
 - [데이터 셋 설명 ppt](https://github.com/better62/Medical-image-testset/blob/main/Chest%20X-ray%20dataset.pdf)
